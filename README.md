@@ -5,5 +5,5 @@ hook_test_app
 
 updated
 
-test triger OBS
+test triger OBS 2
 
